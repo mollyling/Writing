@@ -1,0 +1,9 @@
+#+TITLE: Privacy in uProxy
+
+* Structure
+** Proxy Setup Overview
+** What's sent on Roster Setup
+** What's sent on Rendezvous
+** What's sent during proxying
+
+
